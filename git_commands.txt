@@ -6,4 +6,6 @@ git commit -m "Comment"
 git log : to view logs
 git add . : it will add all of the files
 git checkout <commit-hash>
-
+git branch : list out all the branches
+git branch <name> : make a new branch
+git checkout <branchname> : go to branch
