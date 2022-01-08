@@ -1,0 +1,9 @@
+git --version
+git init : to initiate a repository in the folder
+git status : to check status of the repo
+git add file_name.xyz : to add the file to be committed
+git commit -m "Comment"
+git log : to view logs
+git add . : it will add all of the files
+git checkout <commit-hash>
+
