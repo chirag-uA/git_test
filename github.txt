@@ -1,0 +1,11 @@
+git remote -v : lists all the remote that we have
+
+git remote add origin https://github.com/chirag-uA/git_test.git
+git branch -M main
+git push -u origin main
+
+These above steps should work but are not working as github has removed password authentication. A token needs to be generated instead.
+
+The steps that are needed to be followed are in this forum: https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to
+
+
